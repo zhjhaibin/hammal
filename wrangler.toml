@@ -1,6 +1,6 @@
-name = "hammal"
+name = "Docker"
 type = "webpack"
-account_id = "your account_id"
+account_id = "562b498791331089dd53e1df57f41d1b"
 workers_dev = true
 route = ""
 zone_id = ""
